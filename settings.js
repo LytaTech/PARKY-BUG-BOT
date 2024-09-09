@@ -11,26 +11,26 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "22898133388"
-global.ownername = "🩵 𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛"
-global.ytname = "YT: Jean-parker-tech"
-global.socialm = "GitHub: Jeanparker100"
+global.ownernomer = "2347084528285"
+global.ownername = "LYTA MANHWA"
+global.ytname = "YT: https://youtube.com/@lytamanhwa?si=bYjftvesQLVPGm8d"
+global.socialm = "https://youtube.com/@lytamanhwa?si=bYjftvesQLVPGm8d"
 global.location = "Togo, maritime, Lomé"
 
-global.ownernumber = '22898133388'  //creator number
-global.ownername = '𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛' //owner name
+global.ownernumber = '2347084528285'  //creator number
+global.ownername = 'LYTA MANHWA' //owner name
 global.botname = '𝙿𝙰𝚁𝙺𝚈-𝙱𝚄𝙶-𝙱𝙾𝚃' //name of the bot
 
 //sticker details
-global.packname = '¹⁴³ ᴬˡᵉᵐᵃᵖ 🧸💜'
-global.author = '𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛'
+global.packname = 'LYTA MANHWA'
+global.author = 'LYTA MANHWA'
 
 //console view/theme
-global.themeemoji = '🩵'
-global.wm = "𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛 in©"
+global.themeemoji = '🥰'
+global.wm = "LYTA MANHWA"
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VagLiHaEVccM6o6Sqc45'
+global.link = 'https://youtube.com/@lytamanhwa?si=bYjftvesQLVPGm8d'
 
 //custom prefix
 global.prefa = '.'
@@ -38,9 +38,9 @@ global.prefa = '.'
 //false=disable and true=enable
 global.autoRecording = false //auto recording
 global.autoTyping = false //auto typing
-global.autorecordtype = false //auto typing + recording
+global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
-global.autobio = true //auto update bio
+global.autobio = false //auto update bio
 global.anti92 = false //auto block +92 
 global.autoswview = true //auto view status/story
 
@@ -49,7 +49,7 @@ global.autoswview = true //auto view status/story
 //v2 is link + image menu,
 //v3 is video menu,
 //v4 is call end menu
-global.typemenu = 'v1'
+global.typemenu = 'v3'
 
 //text bug
 global.xbugtex = {
